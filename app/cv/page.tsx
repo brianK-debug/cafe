@@ -8,10 +8,10 @@ export default function CVPage() {
     const cvText = `PROFESSIONAL CURRICULUM VITAE
 
 PERSONAL INFORMATION
-Name: [Your Name]
-Email: [your.email@example.com]
-Phone: [+44 (0) XXXX XXXXXX]
-LinkedIn: [linkedin.com/in/yourprofile]
+Name: Lucky Ale
+Email: l.ale@students.rave.ac.uk
+Phone: +44 7459 115064
+LinkedIn: [linkedin.com/in/lucky-ale]
 Location: London, UK
 
 PROFESSIONAL SUMMARY
